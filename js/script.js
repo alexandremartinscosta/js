@@ -111,4 +111,3 @@ const gastos = compras.map((item) => +item.preco.slice(3).replace(',','.'));
 const gastosTotal = gastos.reduce((a, b) => a + b);
 
 console.log(gastosTotal);
-
