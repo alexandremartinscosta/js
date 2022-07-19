@@ -17,3 +17,4 @@ Object.defineProperties(zelda, {
 });
 
 console.log(zelda);
+console.log("teste");
